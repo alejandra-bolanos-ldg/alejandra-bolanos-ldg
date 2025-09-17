@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+### About Me
+Estudiante de Ingeniería Informática con enfoque en desarrollo web front-end. Tengo experiencia práctica en HTML, CSS y JavaScript, y estoy familiarizándome con frameworks como React. Actualmente estoy explorando el área de ciberseguridad como complemento técnico. Busco oportunidades para aplicar lo que sé, aprender en equipo y crecer con proyectos reales.
 <!--
 **alejandra-bolanos-ldg/alejandra-bolanos-ldg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
